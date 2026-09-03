@@ -8,3 +8,9 @@ i am intrested in learning data structures and algorithms and love to slove prob
 
 my goal is to create a software that works for me and works convinently everywhere and 
 to become a successful software engineer
+
+
+## Projects
+
+I am currently building a portfolio website to showcase my skills and projects.
+One of my planned projects is a web-based application that demonstrates my programming and development skills.
